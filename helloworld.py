@@ -1,0 +1,5 @@
+# print("Hello world")
+hrs = input("Enter Hours:")
+rate = input("Enter the rate")
+pay = float(hrs) * float(rate)
+print("Par:", pay)
